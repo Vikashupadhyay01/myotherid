@@ -1,4 +1,4 @@
-# myotherid
+
 # 💫 About Me:
 I am a passionate Cyber Security Enthusiast with hands-on experience in both Red Team and Blue Team operations. I specialize in penetration testing, vulnerability assessment, threat detection, incident response, and SOC operations. With a strong understanding of offensive and defensive security strategies, I work on identifying vulnerabilities, analyzing threats, and strengthening organizational security posture.<br><br>My expertise includes ethical hacking, network security, malware analysis, SIEM monitoring, log analysis, reconnaissance, enumeration, exploitation techniques, and security hardening. I am also experienced with tools and platforms such as Kali Linux, Wireshark, Nmap, Burp Suite, Metasploit, and SOC monitoring solutions.<br><br>As a cybersecurity researcher and learner, I continuously explore CVEs, attack simulations, cloud security, IoT security, and real-world cyber defense techniques to enhance my practical knowledge and technical skills.<br>
 
